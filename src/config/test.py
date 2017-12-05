@@ -1,0 +1,5 @@
+URLS = 'app.urls'
+
+TESTING = True
+
+POSTGRESQL_DATABASE_URI = ""
